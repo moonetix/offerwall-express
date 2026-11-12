@@ -10,7 +10,7 @@
 [![Node 22](https://img.shields.io/badge/node-22.13%2B-339933)](https://moonetix.com/integrations/website)
 [![One dependency](https://img.shields.io/badge/dependencies-express%20only-brightgreen)](package.json)
 
-Express is the only package. Storage is `node:sqlite`, hashing is `node:crypto`, and tests run on `node --test`. The [Moonetix](https://moonetix.com) offerwall appears on an Earn page as an iframe, and the same signed link is available as JSON for a single-page front end. Moonetix is a pay-per-result affiliate network: your users earn your own currency by completing offers, and you earn per completed offer.
+Express is the only package. Storage is `node:sqlite`, hashing is `node:crypto`, and tests run on `node --test`. The [Moonetix](https://moonetix.com) offerwall appears on an Earn page as an iframe, and the same signed link is available as JSON for a single-page front end. Moonetix is an affiliate network: your users earn your own currency by completing offers, and you earn per completed offer.
 
 > **Get your App ID and keys: sign up free at https://moonetix.com/register**
 
