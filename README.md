@@ -5,14 +5,14 @@
 [![CI](https://github.com/moonetix/offerwall-express/actions/workflows/ci.yml/badge.svg)](https://github.com/moonetix/offerwall-express/actions/workflows/ci.yml)
 [![License: MIT](https://img.shields.io/badge/license-MIT-blue)](LICENSE)
 [![Docs](https://img.shields.io/badge/docs-docs.moonetix.com-004ABB)](https://docs.moonetix.com/postbacks)
-[![Get keys](https://img.shields.io/badge/get%20keys-moonetix.com-004ABB)](https://moonetix.com/register)
+[![Get keys](https://img.shields.io/badge/get%20keys-moonetix.com-004ABB)](https://moonetix.com/register?from=github-offerwall-express)
 [![Express 5](https://img.shields.io/badge/express-5.3.0-000000)](https://moonetix.com/academy/integrations/offerwall-postback-nodejs)
 [![Node 22](https://img.shields.io/badge/node-22.13%2B-339933)](https://moonetix.com/integrations/website)
 [![One dependency](https://img.shields.io/badge/dependencies-express%20only-brightgreen)](package.json)
 
 Express is the only package. Storage is `node:sqlite`, hashing is `node:crypto`, and tests run on `node --test`. The [Moonetix](https://moonetix.com) offerwall appears on an Earn page as an iframe, and the same signed link is available as JSON for a single-page front end. Moonetix is an affiliate network: your users earn your own currency by completing offers, and you earn per completed offer.
 
-> **Get your App ID and keys: sign up free at https://moonetix.com/register**
+> **Get your App ID and keys: sign up free at https://moonetix.com/register?from=github-offerwall-express**
 
 ## What it handles for you
 
@@ -171,7 +171,7 @@ npx github:moonetix/postback-tester --preset moonetix \
 
 ## Get your keys
 
-**Sign up free at https://moonetix.com/register**
+**Sign up free at https://moonetix.com/register?from=github-offerwall-express**
 
 Publisher applications are reviewed by hand. After approval, add your site as an app, set the currency name and rate, and copy the three keys into `.env`.
 
