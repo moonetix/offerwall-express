@@ -1,0 +1,20 @@
+{
+  "name": "offerwall-express",
+  "version": "1.0.0",
+  "description": "Express 5 example app with the Moonetix offerwall: signed Earn page link and a verified, idempotent postback route.",
+  "private": true,
+  "license": "MIT",
+  "type": "module",
+  "main": "src/server.js",
+  "engines": {
+    "node": ">=22.13.0"
+  },
+  "scripts": {
+    "start": "node --env-file-if-exists=.env --disable-warning=ExperimentalWarning src/server.js",
+    "create-user": "node --env-file-if-exists=.env --disable-warning=ExperimentalWarning scripts/create-user.js",
+    "test": "node --disable-warning=ExperimentalWarning --test"
+  },
+  "dependencies": {
+    "express": "5.3.0"
+  }
+}
