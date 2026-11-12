@@ -185,25 +185,8 @@ Publisher applications are reviewed by hand. After approval, add your site as an
 | [telegram-mini-app-offerwall](https://github.com/moonetix/telegram-mini-app-offerwall) | Telegram Mini App with an offerwall |
 | [discord-rewards-bot](https://github.com/moonetix/discord-rewards-bot) | Discord bot that rewards offer completions |
 | [moonetix-offerwall-wordpress](https://github.com/moonetix/moonetix-offerwall-wordpress) | WordPress plugin |
-| [moonetix-android-sdk](https://github.com/moonetix/moonetix-android-sdk) | Android SDK |
-| [moonetix-ios-sdk](https://github.com/moonetix/moonetix-ios-sdk) | iOS SDK |
-| [moonetix-flutter](https://github.com/moonetix/moonetix-flutter) | Flutter plugin |
-| [moonetix-react-native](https://github.com/moonetix/moonetix-react-native) | React Native package |
-| [moonetix-unity](https://github.com/moonetix/moonetix-unity) | Unity plugin |
 | [offerwall-laravel](https://github.com/moonetix/offerwall-laravel) | Laravel Earn page and postback route |
 | [offerwall-django](https://github.com/moonetix/offerwall-django) | Django Earn page and postback view |
-| [offerwall-vue-nuxt](https://github.com/moonetix/offerwall-vue-nuxt) | Nuxt Earn page and postback server route |
-| [offerwall-firebase-functions](https://github.com/moonetix/offerwall-firebase-functions) | Firebase Cloud Functions backend |
-| [offerwall-supabase](https://github.com/moonetix/offerwall-supabase) | Supabase Edge Functions backend |
-| [offerwall-react-vite](https://github.com/moonetix/offerwall-react-vite) | React and Vite front end |
-| [rewards-site-starter](https://github.com/moonetix/rewards-site-starter) | Starter for a rewards website |
-| [offerwall-unity-example](https://github.com/moonetix/offerwall-unity-example) | Unity example game |
-| [offerwall-godot](https://github.com/moonetix/offerwall-godot) | Godot example |
-| [offerwall-html5-game](https://github.com/moonetix/offerwall-html5-game) | HTML5 web game example |
-| [offerwall-flutter-example](https://github.com/moonetix/offerwall-flutter-example) | Flutter example app |
-| [offerwall-react-native-example](https://github.com/moonetix/offerwall-react-native-example) | React Native example app |
-| [offerwall-chrome-extension](https://github.com/moonetix/offerwall-chrome-extension) | Chrome extension example |
-| [offerwall-electron](https://github.com/moonetix/offerwall-electron) | Electron desktop app example |
 | [postback-tester](https://github.com/moonetix/postback-tester) | Sends signed test postbacks and catches double credits, missed reversals and forged requests |
 | [signup-guard](https://github.com/moonetix/signup-guard) | Sign-up risk checks for Node.js and PHP: disposable emails, datacenter and Tor IPs |
 | [datacenter-ip-ranges](https://github.com/moonetix/datacenter-ip-ranges) | Daily cloud, Tor and iCloud Private Relay IP ranges from official feeds |
